@@ -7,3 +7,4 @@ data/dataset/
 models/*.pt
 logs/
 *.pkl
+models/*.pkl
