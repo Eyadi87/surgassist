@@ -1,0 +1,9 @@
+names:
+- scalpel
+- forceps
+- needle_holder
+- suction
+nc: 4
+path: C:\Users\Administrator\surgassist\data\dataset
+train: images/train
+val: images/val

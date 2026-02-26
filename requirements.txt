@@ -1,0 +1,12 @@
+ultralytics==8.4.17
+opencv-python-headless
+torch
+torchvision
+pandas
+numpy
+scikit-learn
+streamlit==1.54.0
+matplotlib
+filterpy
+scipy
+pyyaml

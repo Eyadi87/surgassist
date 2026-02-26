@@ -1,0 +1,21 @@
+2026-02-27 00:11:58,755 | INFO | root | SurgAssist initialized. Launch dashboard with: streamlit run dashboard/app.py
+2026-02-27 00:21:44,623 | INFO | root | SurgAssist initialized. Launch dashboard with: streamlit run dashboard/app.py
+2026-02-27 00:35:55,418 | INFO | root | SurgAssist initialized. Launch dashboard with: streamlit run dashboard/app.py
+2026-02-27 00:52:48,296 | INFO | root | SurgAssist ready.
+2026-02-27 00:52:48,298 | INFO | root | Step 1: python data/generate_sample.py
+2026-02-27 00:52:48,300 | INFO | root | Step 2: streamlit run dashboard/app.py
+2026-02-27 01:10:56,530 | INFO | root | SurgAssist ready.
+2026-02-27 01:10:56,532 | INFO | root | Step 1: python data/generate_sample.py
+2026-02-27 01:10:56,533 | INFO | root | Step 2: streamlit run dashboard/app.py
+2026-02-27 01:22:30,045 | INFO | root | SurgAssist ready.
+2026-02-27 01:22:30,046 | INFO | root | Step 1: python data/generate_sample.py
+2026-02-27 01:22:30,046 | INFO | root | Step 2: streamlit run dashboard/app.py
+2026-02-27 01:22:42,280 | INFO | root | SurgAssist ready.
+2026-02-27 01:22:42,281 | INFO | root | Step 1: python data/generate_sample.py
+2026-02-27 01:22:42,281 | INFO | root | Step 2: streamlit run dashboard/app.py
+2026-02-27 01:24:48,840 | INFO | root | SurgAssist ready.
+2026-02-27 01:24:48,841 | INFO | root | Step 1: python data/generate_sample.py
+2026-02-27 01:24:48,841 | INFO | root | Step 2: streamlit run dashboard/app.py
+2026-02-27 01:33:27,414 | INFO | root | SurgAssist ready.
+2026-02-27 01:33:27,414 | INFO | root | Step 1: python data/generate_sample.py
+2026-02-27 01:33:27,415 | INFO | root | Step 2: streamlit run dashboard/app.py

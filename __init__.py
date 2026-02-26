@@ -1,0 +1,1 @@
+touch detection/__init__.py tracking/__init__.py analytics/__init__.py prediction/__init__.py sterilization/__init__.py dashboard/__init__.py training/__init__.py

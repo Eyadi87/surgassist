@@ -1,0 +1,37 @@
+instruments:
+  - scalpel
+  - forceps
+  - needle_holder
+  - suction
+
+video_source: "data/videos/sample.mp4"
+output_db: "data/surgassist.db"
+model_path: "models/yolov8_surgical.pt"
+base_model: "yolov8n.pt"
+
+detection:
+  confidence: 0.35
+  iou: 0.45
+  imgsz: 640
+
+tracking:
+  max_age: 30
+  min_hits: 1
+  iou_threshold: 0.2
+
+sterilization:
+  capacity: 5
+  cleaning_duration_min: 45
+  turnaround_min: 10
+
+prediction:
+  window_size: 10
+  model_type: "rf"
+
+analytics:
+  idle_threshold_sec: 5
+  waste_threshold_usage: 5
+
+logging:
+  level: "INFO"
+  file: "logs/surgassist.log"
